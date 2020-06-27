@@ -1,0 +1,8 @@
+#!/bin/bash
+cp xyz bkp
+cp jenkins.plugins /tmp
+<<<<<<< HEAD
+develop br changes
+=======
+cp jenkins.plugins /tmp
+>>>>>>> sprint-11
